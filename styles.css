@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    background-color: black;
+}
+main {
+    background-color: rgb(250, 235, 215);
+}
+.title {
+    padding: 1rem;
+}
+#img-div {
+    background-color: rgb(255, 255, 255, 0.35);
+    width: 90%;
+    padding-top: 1rem;
+    margin: auto;
+    font-size: 0.8rem;
+}
+#image {
+    display: block;
+    margin: auto;
+    width: 90%;
+    max-width: 100%;
+}
+#tribute-info {
+    width: 90%;
+    margin: auto;
+    padding: 0;
+}
+#tribute-info dt {
+    font-weight: bold;
+    font-size: 1.07rem;
+    padding: 0.5rem;
+}
+#tribute-info dd {
+    margin: 0;
+}
+#tribute-link {
+    color: rgb(143, 45, 45);
+}
